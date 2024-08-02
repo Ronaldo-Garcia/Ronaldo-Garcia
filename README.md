@@ -7,12 +7,12 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Ronaldo-Garcia/osticket-post-install)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Ronaldo-Garcia/Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
-  - [Creating Resource Groups and Deploying Virtual Machines in Azure](https://github.com/Ronaldo-Garcia/Rescource-Groups-and-VMs)
-  - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/Ronaldo-Garcia/azure-network-protocols/tree/main)
-  - [Installing Active Directory within Azure VMs](https://github.com/Ronaldo-Garcia/Active-Directory-Install)
-  - [Configuring Active Directory with Azure VMs](https://github.com/Ronaldo-Garcia/Configuring-Active-Directory)
-  - [Network File Shares and Permissions](https://github.com/Ronaldo-Garcia/Network-File-Shares-And-Perms/tree/main)
-  - [Virtual Private Network](https://github.com/Ronaldo-Garcia/Virtual-Private-Network/tree/main)
+  - [Azure: Creating Resource Groups and Deploying Virtual Machines](https://github.com/Ronaldo-Garcia/Rescource-Groups-and-VMs)
+  - [Azure: Network Security Groups (NSGs) and Inspecting Traffic Between Virtual Machines](https://github.com/Ronaldo-Garcia/azure-network-protocols/tree/main)
+  - [Azure: Installing Active Directory within Virtual Machines](https://github.com/Ronaldo-Garcia/Active-Directory-Install)
+  - [Azure: Configuring Active Directory with Virtual Machines](https://github.com/Ronaldo-Garcia/Configuring-Active-Directory)
+  - [Azure: Network File Shares and Permissions](https://github.com/Ronaldo-Garcia/Network-File-Shares-And-Perms/tree/main)
+  - [Azure: Virtual Private Network](https://github.com/Ronaldo-Garcia/Virtual-Private-Network/tree/main)
 
 <h2>🤳Connect with me:</h2>
 
