@@ -11,6 +11,7 @@
   - [Installing Active Directory within Azure VMs](https://github.com/Ronaldo-Garcia/Active-Directory-Install)
   - [Configuring Active Directory with Azure VMs](https://github.com/Ronaldo-Garcia/Configuring-Active-Directory)
   - [Network File Shares and Permissions](https://github.com/Ronaldo-Garcia/Network-File-Shares-And-Perms/tree/main)
+  - [Virtual Private Network](https://github.com/afisaminou/Virtual-Private-Network](https://github.com/Ronaldo-Garcia/Virtual-Private-Network/tree/main))
 
 <h2>🤳Connect with me:</h2>
 
