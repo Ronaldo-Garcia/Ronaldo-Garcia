@@ -8,6 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Ronaldo-Garcia/Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
   - [Creating Resource Groups and Deploying Virtual Machines in Azure](https://github.com/Ronaldo-Garcia/Rescource-Groups-and-VMs)
+  - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/Ronaldo-Garcia/azure-network-protocols/tree/main)
   - [Installing Active Directory within Azure VMs](https://github.com/Ronaldo-Garcia/Active-Directory-Install)
   - [Configuring Active Directory with Azure VMs](https://github.com/Ronaldo-Garcia/Configuring-Active-Directory)
   - [Network File Shares and Permissions](https://github.com/Ronaldo-Garcia/Network-File-Shares-And-Perms/tree/main)
