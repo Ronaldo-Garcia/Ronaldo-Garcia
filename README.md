@@ -15,7 +15,7 @@ In addition to my technical projects, I bring a wealth of experience from my rol
 <br>
 I am passionate about advancing my IT career and am eager to apply my knowledge and skills in a professional setting. My goal is to contribute effectively to technology-driven initiatives and to stay updated with the latest advancements in the field. I look forward to embracing new challenges and making a significant impact in the ever-evolving world of information technology.
 <br>
-<h2>🖥️ Information Technology Projects:</h2>
+<h2>🖥️ IT Support Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Ronaldo-Garcia/osticket-prereqs)
