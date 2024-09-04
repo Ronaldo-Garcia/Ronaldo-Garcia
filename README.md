@@ -39,6 +39,6 @@ I am passionate about advancing my IT career and am eager to apply my knowledge 
 <br>
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Monica | LinkedIn" width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Ronaldo | LinkedIn" width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/ronaldo-garcia-273450321/
