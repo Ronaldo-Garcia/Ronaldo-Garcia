@@ -4,16 +4,16 @@
 Hi, my name is Ronaldo Garcia!
 <br>
 <br>
-I am a dedicated individual with a profound enthusiasm for information technology, particularly in the realms of network and cloud computing. Currently, I am pursuing a Bachelor of Science in Information Technology at Western Governors University, expected to be completed by Summer 2026. My educational journey, coupled with my hands-on projects and certifications, has equipped me with a solid foundation in IT.
+I am a passionate IT professional with a strong focus on Cybersecurity and IT. I’m currently pursuing a Bachelor of Science in Information Technology at Western Governors University, with an expected graduation in Summer 2026. My studies, combined with practical projects and certifications, have laid a solid groundwork in IT.
 <br>
 <br>
-I have successfully implemented various IT projects, such as setting up a Help Desk Ticketing System using Azure Virtual Machines and deploying Active Directory on-premises in Azure. These experiences have honed my skills in utilizing platforms like Azure, managing virtual machines, and understanding network security concepts.
+In my current role as an Desktop Support Technician at the City of Downey, I am actively applying the skills and knowledge I’ve acquired, while continually expanding my expertise through hands-on experiences and certifications. I provide technical support for hardware, software, and network issues, troubleshooting across operating systems and devices to ensure smooth system functionality. I also recommend improvements, maintain a professional rapport with clients, and prioritize tasks independently to deliver effective IT solutions.
 <br>
 <br>
-In addition to my technical projects, I bring a wealth of experience from my role as a Warehouse Operations Associate at The Home Depot, where I developed strong problem-solving, communication, and teamwork abilities. My commitment to continuous learning is evident through my certifications, including CompTIA A+, and my ongoing efforts to obtain CompTIA Network+ and Security+.
+My background also includes valuable experience as an Operations Associate at The Home Depot, where I strengthened my problem-solving, communication, and teamwork skills. I hold a CompTIA A+ certification and am actively working toward obtaining CompTIA Network+ and Security+ certifications, demonstrating my commitment to continuous learning and professional growth.
 <br>
 <br>
-I am passionate about advancing my IT career and am eager to apply my knowledge and skills in a professional setting. My goal is to contribute effectively to technology-driven initiatives and to stay updated with the latest advancements in the field. I look forward to embracing new challenges and making a significant impact in the ever-evolving world of information technology.
+I am driven to advance in my IT career, contribute to technology-driven initiatives, and stay on the cutting edge of industry developments. I look forward to taking on new challenges and making a meaningful impact in the dynamic fields of IT and Cybersecurity.
 <br>
 <h2>🖥️ IT Support Projects:</h2>
 
